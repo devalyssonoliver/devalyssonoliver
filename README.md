@@ -11,6 +11,7 @@ Eu tenho 20 anos, sou apaixonado por programação e resolução de problemas. E
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-oliveira-286932271/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devalyssonoliver)
+[![Beecrowd](https://img.shields.io/badge/beecrowd-FF4500?style=for-the-badge&logo=codewars&logoColor=white)](https://judge.beecrowd.com/pt/profile/1006066)
 
 ## Minhas Estatísticas no beecrowd
 
