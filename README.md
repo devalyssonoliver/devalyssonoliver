@@ -14,10 +14,7 @@ Eu tenho 20 anos, sou apaixonado por programação e resolução de problemas. E
 
 ## Minhas Estatísticas no beecrowd
 
-| ![Submissões](https://path_to_submissoes_image) | ![Resolvidos](https://path_to_resolvidos_image) | ![Mais Difícil Resolvido](https://path_to_mais_dificil_resolvido_image) |
-|:--:|:--:|:--:|
-| **Submissões** | **Resolvidos** | **Mais Difícil Resolvido** |
-| 46 | 23 | 2609 |
+![Estatísticas](path/to/local/image.png)
 
 ## Meu GitHub Stats
 
