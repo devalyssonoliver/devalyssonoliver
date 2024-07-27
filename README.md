@@ -1,4 +1,3 @@
-
 # Olá, meu nome é Alisson!
 
 ## Sobre Mim
@@ -8,20 +7,22 @@ Eu tenho 20 anos, sou apaixonado por programação e resolução de problemas. E
 
 • 🗄️ Banco de Dados: PostgreSQL, SQLite, MySQL
 
-
-
-
 ## Conecte-se
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-oliveira-286932271/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devalyssonoliver)
 
+## Minhas Estatísticas no beecrowd
+
+| ![Submissões](https://path_to_submissoes_image) | ![Resolvidos](https://path_to_resolvidos_image) | ![Mais Difícil Resolvido](https://path_to_mais_dificil_resolvido_image) |
+|:--:|:--:|:--:|
+| **Submissões** | **Resolvidos** | **Mais Difícil Resolvido** |
+| 46 | 23 | 2609 |
+
 ## Meu GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devalyssonoliver)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devalyssonoliver)
-
-
 
 ## Linguagens
 
