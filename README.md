@@ -13,9 +13,6 @@ Eu tenho 20 anos, sou apaixonado por programação e resolução de problemas. E
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devalyssonoliver)
 [![Beecrowd](https://img.shields.io/badge/beecrowd-FF4500?style=for-the-badge&logo=codewars&logoColor=white)](https://judge.beecrowd.com/pt/profile/1006066)
 
-## Minhas Estatísticas no beecrowd
-
-![Estatísticas](path/to/local/image.png)
 
 ## Meu GitHub Stats
 
