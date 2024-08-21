@@ -1,7 +1,7 @@
 # Olá, meu nome é Alisson!
 
 ## Sobre Mim
-Eu tenho 20 anos, sou apaixonado por programação e resolução de problemas. Estou no meu 5° período Análise e Desenvolvimento de Sistemas e trabalho como Analista de Suporte ERP. Atualmente, estou focando meus estudos em programação orientada.
+Eu tenho 20 anos, sou apaixonado por programação e resolução de problemas. Estou no meu 4° período Análise e Desenvolvimento de Sistemas e trabalho como Analista de Suporte ERP. Atualmente, estou focando meus estudos em programação orientada.
 
 • 💻 Linguagens: Delphi, C#, Java
 
